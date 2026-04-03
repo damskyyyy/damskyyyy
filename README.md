@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Damai%20Yanti%20Anggraeni&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=System%20Analyst%20%7C%20QA%20Enthusiast%20%7C%20Manual%20%26%20Automation%20Testing&descAlignY=58&descSize=16&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Damai%20Yanti%20Anggraeni&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=System%20Analyst%20%7C%20QA%20Enthusiast&descAlignY=58&descSize=20" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=764BA2&center=true&vCenter=true&random=false&width=700&lines=System+Analyst+%F0%9F%92%BC;QA+Enthusiast+%F0%9F%94%8D;Learning+Manual+%26+Automation+Testing+%F0%9F%A4%96;Bridging+Business+%26+Tech+Solutions+%F0%9F%94%97;Open+to+Collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
@@ -41,17 +41,28 @@ I'm passionate about making software **reliable and bug-free** — which is why 
 
 <div align="center">
 
-```
-🧪 MANUAL TESTING              🤖 AUTOMATION TESTING
-──────────────────────         ──────────────────────────
-✅ Test Plan & Strategy         ✅ Selenium WebDriver
-✅ Test Case Design             ✅ Postman (API Testing)
-✅ Bug Reporting                🔄 Learning: Cypress
-✅ Exploratory Testing          🔄 Learning: Test Scripting
-✅ Regression Testing           🔄 Learning: CI/CD Basics
-```
+### 🧪 Manual Testing
+![Test Planning](https://img.shields.io/badge/Test%20Planning-✔%20Practiced-764ba2?style=flat-square)
+![Test Case Design](https://img.shields.io/badge/Test%20Case%20Design-✔%20Practiced-764ba2?style=flat-square)
+![Bug Reporting](https://img.shields.io/badge/Bug%20Reporting-✔%20Practiced-764ba2?style=flat-square)
+![Exploratory Testing](https://img.shields.io/badge/Exploratory%20Testing-✔%20Practiced-764ba2?style=flat-square)
+![Regression Testing](https://img.shields.io/badge/Regression%20Testing-✔%20Practiced-764ba2?style=flat-square)
+
+### 🤖 Automation Testing
+![Selenium](https://img.shields.io/badge/Selenium-✔%20Practiced-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-✔%20Practiced-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman%20API%20Testing-✔%20Practiced-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD%20Basics-🔄%20Learning-667eea?style=flat-square)
+
+### 📋 QA Process & Tools
+![JIRA](https://img.shields.io/badge/JIRA-✔%20Practiced-0052CC?style=flat-square&logo=jira&logoColor=white)
+![SDLC](https://img.shields.io/badge/SDLC%20%26%20STLC-✔%20Practiced-764ba2?style=flat-square)
+![Agile](https://img.shields.io/badge/Agile%20%2F%20Scrum-✔%20Practiced-f093fb?style=flat-square)
+![Defect Lifecycle](https://img.shields.io/badge/Defect%20Lifecycle-✔%20Practiced-764ba2?style=flat-square)
 
 </div>
+
+> 🟣 `✔ Practiced` — learned & hands-on &nbsp;|&nbsp; 🔵 `🔄 Learning` — currently in progress
 
 ---
 
@@ -157,14 +168,6 @@ I'm passionate about making software **reliable and bug-free** — which is why 
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=damskyyyy&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-</div>
-
----
-
 ## 🤝 Let's Work Together!
 
 <div align="center">
@@ -182,7 +185,7 @@ I'm open to collaborating on **QA & testing**, **system analysis**, and **data-d
 ---
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f093fb,50:764ba2,100:667eea&height=120&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f093fb,50:764ba2,100:667eea&height=120&section=footer" />
 
 *"Quality is not an act, it is a habit."* ✨
 
