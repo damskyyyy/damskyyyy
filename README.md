@@ -1,11 +1,9 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Damai%20Yanti%20Anggraeni&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=System%20Analyst%20%7C%20Web%20Developer%20%7C%20Data%20Analyst%20%7C%20Project%20Manager&descAlignY=58&descSize=16&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Damai%20Yanti%20Anggraeni&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=System%20Analyst%20%7C%20QA%20Enthusiast%20%7C%20Manual%20%26%20Automation%20Testing&descAlignY=58&descSize=16&animation=fadeIn" />
 
-<!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=764BA2&center=true&vCenter=true&random=false&width=700&lines=System+Analyst+%40+PT+Royal+D'Paragon+Land+%F0%9F%8F%A2;Bridging+business+needs+with+tech+solutions+%F0%9F%94%97;Web+Developer+%7C+PHP+%7C+MySQL+%7C+JavaScript+%F0%9F%92%BB;Data+Analyst+%7C+Associate+Data+Science+Certified+%F0%9F%93%8A;Open+to+Collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=764BA2&center=true&vCenter=true&random=false&width=700&lines=System+Analyst+%F0%9F%92%BC;QA+Enthusiast+%F0%9F%94%8D;Learning+Manual+%26+Automation+Testing+%F0%9F%A4%96;Bridging+Business+%26+Tech+Solutions+%F0%9F%94%97;Open+to+Collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -22,21 +20,86 @@
 
 <img align="right" width="180" src="https://www.damskyy.my.id/pp.jpeg" />
 
-Hey there! I'm **Damai Yanti** — a **System Analyst** at PT Royal D'Paragon Land, based in Yogyakarta, Indonesia 🇮🇩
+Hey there! I'm **Damai Yanti** — a **System Analyst** based in Yogyakarta, Indonesia 🇮🇩
 
-I graduated from **Universitas Ahmad Dahlan** (Informatics, 2023) and have been building experience across system analysis, web development, data analytics, and even event management & animation.
+I graduated from **Universitas Ahmad Dahlan** (Informatics, 2023) and currently work as a System Analyst, where I analyze business processes and translate them into technical solutions.
 
-I believe in **optimization through analysis** — finding smarter ways to bridge business needs with technical solutions.
+I'm passionate about making software **reliable and bug-free** — which is why I'm actively diving into **Quality Assurance**, both manual and automation testing. 🐛🔍
 
-💡 **What I bring to the table:**
-- 🔍 **System & data analysis** — certified Associate Data Scientist
-- 🌐 **Web development** — hands-on with PHP, MySQL, JavaScript, Tailwind CSS
-- 📋 **Project management** — led events and cross-functional coordination
-- 🤝 **Communication** — sharpened through 1 year in customer service
+- 💼 **System Analyst** — requirements gathering, process modeling, documentation
+- 🔍 **QA Enthusiast** — learning manual testing, automation, and test strategies
+- 📊 **Data-minded** — certified Associate Data Scientist
+- 🤝 **Team player** — experience across tech, events, and customer-facing roles
 
-> *"Bridging business needs with technical solutions. Optimization through analysis."*
+> *"Quality is not an act, it is a habit."*
 
 <br clear="right"/>
+
+---
+
+## 🔍 QA Learning Journey
+
+<div align="center">
+
+```
+🧪 MANUAL TESTING              🤖 AUTOMATION TESTING
+──────────────────────         ──────────────────────────
+✅ Test Plan & Strategy         ✅ Selenium WebDriver
+✅ Test Case Design             ✅ Postman (API Testing)
+✅ Bug Reporting                🔄 Learning: Cypress
+✅ Exploratory Testing          🔄 Learning: Test Scripting
+✅ Regression Testing           🔄 Learning: CI/CD Basics
+```
+
+</div>
+
+---
+
+## 🏗️ System Analyst Skills
+
+<div align="center">
+
+| Skill | Details |
+|-------|---------|
+| 📋 **Requirements Analysis** | Gathering & documenting business needs |
+| 🔄 **Process Modeling** | Flowcharts, DFD, use case diagrams |
+| 🗄️ **Database Design** | ERD, normalization, query optimization |
+| 📝 **Documentation** | SRS, BRD, technical specs |
+| 🤝 **Stakeholder Communication** | Bridging business and tech teams |
+
+</div>
+
+---
+
+## 🛠️ Tools & Tech
+
+<div align="center">
+
+**🔍 QA & Testing**
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+**🏗️ System Analysis**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft Visio](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+**📊 Data**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+**🧰 General Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
 
 ---
 
@@ -45,7 +108,7 @@ I believe in **optimization through analysis** — finding smarter ways to bridg
 <table>
   <tr>
     <td>🏢</td>
-    <td><strong>System Analyst</strong> — PT Royal D'Paragon Land</td>
+    <td><strong>System Analyst</strong></td>
     <td><code>Mar 2025 – Now</code></td>
   </tr>
   <tr>
@@ -64,54 +127,6 @@ I believe in **optimization through analysis** — finding smarter ways to bridg
     <td><code>Sep 2022 – Feb 2023</code></td>
   </tr>
 </table>
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-**💻 Development**
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**📊 Data & Analysis**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-**🔐 Cybersecurity**
-
-![Google Cybersecurity](https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Python Automation](https://img.shields.io/badge/Python%20Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**🧰 Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 🗂️ **SIMTA** | Sistem Informasi Tugas — Task Information System | PHP · MySQL · JS · HTML · CSS |
-| 📋 **AbsenDulu** | Web-based Attendance & SE Information System | PHP · MySQL · JS · HTML · CSS |
-
-</div>
 
 ---
 
@@ -145,7 +160,7 @@ I believe in **optimization through analysis** — finding smarter ways to bridg
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=damskyyyy&theme=radical&no-frame=true&no-bg=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=damskyyyy&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
 ---
@@ -154,7 +169,7 @@ I believe in **optimization through analysis** — finding smarter ways to bridg
 
 <div align="center">
 
-I'm open to collaborating on **web projects**, **system analysis**, and **data-driven** work. Let's build something great! ✨
+I'm open to collaborating on **QA & testing**, **system analysis**, and **data-driven** projects. Let's connect! ✨
 
 <br/>
 
@@ -169,6 +184,6 @@ I'm open to collaborating on **web projects**, **system analysis**, and **data-d
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f093fb,50:764ba2,100:667eea&height=120&section=footer&animation=fadeIn" />
 
-*"Bridging business needs with technical solutions. Optimization through analysis."* ✨
+*"Quality is not an act, it is a habit."* ✨
 
 </div>
