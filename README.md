@@ -1,40 +1,69 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Damai%20Yanti%20Anggraeni&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=QA%20Engineer%20%7C%20UI%2FUX%20Designer%20%7C%20Web%20Developer%20%7C%20Data%20Analyst&descAlignY=58&descSize=16&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Damai%20Yanti%20Anggraeni&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=System%20Analyst%20%7C%20Web%20Developer%20%7C%20Data%20Analyst%20%7C%20Project%20Manager&descAlignY=58&descSize=16&animation=fadeIn" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=764BA2&center=true&vCenter=true&random=false&width=600&lines=Fresh+Graduate+%F0%9F%8E%93+Informatics+%40+UAD;Software+Quality+Assurance+%F0%9F%94%8D;UI%2FUX+Design+%26+Web+Development+%F0%9F%8C%90;Data+Analytics+%F0%9F%93%8A;Open+to+Collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=764BA2&center=true&vCenter=true&random=false&width=700&lines=System+Analyst+%40+PT+Royal+D'Paragon+Land+%F0%9F%8F%A2;Bridging+business+needs+with+tech+solutions+%F0%9F%94%97;Web+Developer+%7C+PHP+%7C+MySQL+%7C+JavaScript+%F0%9F%92%BB;Data+Analyst+%7C+Associate+Data+Science+Certified+%F0%9F%93%8A;Open+to+Collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile Views + Followers badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=damskyyyy&color=764ba2&style=for-the-badge&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/damskyyyy?style=for-the-badge&color=667eea&labelColor=1a1a2e)](https://github.com/damskyyyy)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-damskyy.my.id-f093fb?style=for-the-badge)](https://damskyy.my.id)
 
 </div>
 
 ---
 
-## 🌸 About Me
+## 🙋‍♀️ About Me
 
-```yaml
-name:       Damai Yanti Anggraeni
-alias:      damskyyyy
-education:  Fresh Graduate — Informatics, Universitas Ahmad Dahlan
-status:     Open to work & collaboration 🚀
-location:   Indonesia 🇮🇩
-interests:
-  - Software Quality Assurance 🔍
-  - UI/UX Design 🎨
-  - Web Development 💻
-  - Data Analytics 📊
-contact:
-  email:    damayantianggraini9@gmail.com
-  whatsapp: +62 822-8133-1514
-```
+<img align="right" width="180" src="https://www.damskyy.my.id/pp.jpeg" />
+
+Hey there! I'm **Damai Yanti** — a **System Analyst** at PT Royal D'Paragon Land, based in Yogyakarta, Indonesia 🇮🇩
+
+I graduated from **Universitas Ahmad Dahlan** (Informatics, 2023) and have been building experience across system analysis, web development, data analytics, and even event management & animation.
+
+I believe in **optimization through analysis** — finding smarter ways to bridge business needs with technical solutions.
+
+💡 **What I bring to the table:**
+- 🔍 **System & data analysis** — certified Associate Data Scientist
+- 🌐 **Web development** — hands-on with PHP, MySQL, JavaScript, Tailwind CSS
+- 📋 **Project management** — led events and cross-functional coordination
+- 🤝 **Communication** — sharpened through 1 year in customer service
+
+> *"Bridging business needs with technical solutions. Optimization through analysis."*
+
+<br clear="right"/>
+
+---
+
+## 💼 Experience
+
+<table>
+  <tr>
+    <td>🏢</td>
+    <td><strong>System Analyst</strong> — PT Royal D'Paragon Land</td>
+    <td><code>Mar 2025 – Now</code></td>
+  </tr>
+  <tr>
+    <td>🎪</td>
+    <td><strong>Event Management Specialist</strong> — Gema Putra Sentosa</td>
+    <td><code>Sep 2023 – Jan 2024</code></td>
+  </tr>
+  <tr>
+    <td>🏛️</td>
+    <td><strong>Customer Service Specialist</strong> — Muhammadiyah Museum</td>
+    <td><code>Nov 2022 – Oct 2023</code></td>
+  </tr>
+  <tr>
+    <td>🎬</td>
+    <td><strong>Junior Animator</strong> — GPS Studio</td>
+    <td><code>Sep 2022 – Feb 2023</code></td>
+  </tr>
+</table>
 
 ---
 
@@ -42,37 +71,59 @@ contact:
 
 <div align="center">
 
-**🔍 Quality Assurance**
-
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
-**🎨 Design**
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
 **💻 Development**
 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**📊 Data**
+**📊 Data & Analysis**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+**🔐 Cybersecurity**
+
+![Google Cybersecurity](https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Python Automation](https://img.shields.io/badge/Python%20Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **🧰 Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 🗂️ **SIMTA** | Sistem Informasi Tugas — Task Information System | PHP · MySQL · JS · HTML · CSS |
+| 📋 **AbsenDulu** | Web-based Attendance & SE Information System | PHP · MySQL · JS · HTML · CSS |
+
+</div>
+
+---
+
+## 🏅 Certifications
+
+<div align="center">
+
+![Google](https://img.shields.io/badge/Automate%20Cybersecurity%20Tasks%20with%20Python-Google%20%7C%20Oct%202024-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+![Google](https://img.shields.io/badge/Foundations%20of%20Cybersecurity-Google%20%7C%20Sep%202024-34A853?style=for-the-badge&logo=google&logoColor=white)
+
+![DataScience](https://img.shields.io/badge/Associate%20Data%20Science-Certified-764ba2?style=for-the-badge&logo=databricks&logoColor=white)
 
 </div>
 
@@ -99,26 +150,25 @@ contact:
 
 ---
 
-## 🤝 Let's Connect & Collaborate!
+## 🤝 Let's Work Together!
 
 <div align="center">
 
-I'm always excited to work on **websites**, **quality assurance**, and **data-driven** projects. Let's build something amazing together! ✨
+I'm open to collaborating on **web projects**, **system analysis**, and **data-driven** work. Let's build something great! ✨
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-damskyy.my.id-764ba2?style=for-the-badge)](https://damskyy.my.id)
 [![Email](https://img.shields.io/badge/Email-damayantianggraini9%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:damayantianggraini9@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-082281331514-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282281331514)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B62%20822--8133--1514-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282281331514)
 
 </div>
 
 ---
 
 <div align="center">
-
-<!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f093fb,50:764ba2,100:667eea&height=120&section=footer&animation=fadeIn" />
 
-*"Quality is never an accident; it is always the result of intelligent effort."* ✨
+*"Bridging business needs with technical solutions. Optimization through analysis."* ✨
 
 </div>
