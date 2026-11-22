@@ -10,7 +10,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=damskyyyy&color=764ba2&style=for-the-badge&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/damskyyyy?style=for-the-badge&color=667eea&labelColor=1a1a2e)](https://github.com/damskyyyy)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-damskyy.my.id-f093fb?style=for-the-badge)](https://damskyy.my.id)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-damaianggraeni.web.id-f093fb?style=for-the-badge)](https://damaianggraeni.web.id/)
 
 </div>
 
@@ -18,7 +18,7 @@
 
 ## 🙋‍♀️ About Me
 
-<img align="right" width="180" src="https://www.damskyy.my.id/pp.jpeg" />
+<img align="right" width="180" src="https://damaianggraeni.web.id//pp.jpeg" />
 
 Hey there! I'm **Damai Yanti** — a **System Analyst** based in Yogyakarta, Indonesia 🇮🇩
 
@@ -176,7 +176,7 @@ I'm open to collaborating on **QA & testing**, **system analysis**, and **data-d
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-damskyy.my.id-764ba2?style=for-the-badge)](https://damskyy.my.id)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-damaianggraeni.web.id-764ba2?style=for-the-badge)](https://damaianggraeni.web.id/)
 [![Email](https://img.shields.io/badge/Email-damayantianggraini9%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:damayantianggraini9@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B62%20822--8133--1514-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282281331514)
 
