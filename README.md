@@ -10,7 +10,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=damskyyyy&color=764ba2&style=for-the-badge&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/damskyyyy?style=for-the-badge&color=667eea&labelColor=1a1a2e)](https://github.com/damskyyyy)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-damaianggraeni.web.id-f093fb?style=for-the-badge)](https://damaianggraeni.web.id/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-damskyy.my.id-f093fb?style=for-the-badge)](https://damaianggraeni.web.id/)
 
 </div>
 
@@ -18,7 +18,7 @@
 
 ## 🙋‍♀️ About Me
 
-<img align="right" width="180" src="https://damaianggraeni.web.id//pp.jpeg" />
+<img align="right" width="180" src="https://damskyy.my.id//pp.jpeg" />
 
 Hey there! I'm **Damai Yanti** — a **System Analyst** based in Yogyakarta, Indonesia 🇮🇩
 
